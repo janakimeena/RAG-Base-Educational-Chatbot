@@ -1,0 +1,10 @@
+{
+  "input_file": "pytorch_nn_docs.jsonl",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunk_size": 180,
+  "chunk_overlap": 30,
+  "min_words": 30,
+  "normalize_embeddings": true,
+  "num_docs": 50,
+  "num_chunks": 1090
+}
