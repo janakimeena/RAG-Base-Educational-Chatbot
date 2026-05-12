@@ -1,0 +1,19 @@
+# Core RAG pipeline
+numpy
+requests
+sentence-transformers
+faiss-cpu
+
+# Scraping
+beautifulsoup4
+
+# API + web app
+fastapi
+uvicorn
+pydantic
+
+# Evaluation / experiments
+datasets
+ragas
+langchain-google-genai
+langchain-huggingface
